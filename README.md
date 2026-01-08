@@ -98,14 +98,6 @@ Modern portfolio website showcasing software engineering expertise. Features smo
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio313&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio313&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Antonio313&theme=tokyonight&hide_border=true&background=0D1117)
-
 ## 🤝 Let's Connect
 
 I'm always open to discussing new projects, opportunities, or collaborations!
